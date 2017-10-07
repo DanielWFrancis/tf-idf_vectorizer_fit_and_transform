@@ -1,0 +1,7 @@
+Smart cities are worth pursuing if we can balance the good with the bad. Here's a rule of thumb: Smart city technologies should be implemented when they increase, rather than decrease, government transparency.
+ By now, you've probably heard of so-called smart homes, but you may not have heard of the next logical step: smart cities. It's not as far-fetched as it sounds – in fact, it's happening now.
+American cities are already adopting new technologies intended to improve urban living. You have used smart city products if you've ridden a bike from a bike-share system, paid for street parking using your phone or paid for a toll road using an E-ZPass. Industry leaders who design these products promote them as a way to make city services more useful and efficient, and they have had some notable successes. However, the emerging smart city trend poses some risks to residents, which policymakers have not given sufficient attention to yet.
+In a new Mercatus Center study, I analyze the benefits that smart city innovations offer, while calling attention to some of those risks.
+Boston has been a leader in improving city services through innovation. The city has implemented an app called Street Bump, which helps identify where roads need to be repaired. When Bostonians download the app, the accelerometers in their phones catalog any unexpected bumps that they hit while driving. The app has helped the city identify and repair over a thousand sunken manholes.
+Continue reading
+ https://www.mercatus.org/commentary/smart-cities-require-smart-policy
